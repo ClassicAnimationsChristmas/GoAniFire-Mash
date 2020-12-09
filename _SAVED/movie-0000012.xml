@@ -1,0 +1,1524 @@
+<film copyable="0" duration="14.4" published="0" pshare="0">
+  <meta>
+    <title><![CDATA[Where's My Water 2 (GoAnimate Version)]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="4279b"/>
+      <color value="565656"/>
+      <color value="fff2"/>
+      <color value="0"/>
+    </palette>
+  </meta>
+  <scene id="SCENE1" adelay="24" lock="Y" index="0" color="272283" guid="C00F4ADC-B729-C9E5-346B-D1B7CA3C0881">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <trans id="GoTrans" index="6">
+      <fx dur="12" type="fl.Fade.out" ease="null"/>
+    </trans>
+  </scene>
+  <scene id="SCENE2" adelay="12" lock="Y" index="1" color="272283" guid="83B6B396-AD45-FD04-AF6B-30152BD7B6F1">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11713" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>247.3660004</x>
+      <y>186.4553291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="12" lock="Y" index="2" color="272283" guid="ACCD96FC-C77D-22AD-4ACB-E4A90A0BEC62">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11713" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>247.3660004</x>
+      <y>186.4553291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11723" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>353.9428401</x>
+      <y>214.6053291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="33" lock="Y" index="3" color="272283" guid="6C6935CD-9FA8-676D-CB15-F78D66768968">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11713" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>247.3660004</x>
+      <y>186.4553291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11723" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>353.9428401</x>
+      <y>214.6053291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="9">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="10">
+      <file>common.square01.swf</file>
+      <x>268.95,258.6</x>
+      <y>-9.2811917,94.5</y>
+      <xscale>1,2.0325359</xscale>
+      <yscale>1,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="704" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="36" delay="12">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE5" adelay="36" lock="Y" index="4" color="272283" guid="36CAECFB-F2D2-B253-C07E-18B863F78EA1">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11713" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.laugh.xml</action>
+      <x>247.3660004</x>
+      <y>186.4553291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11723" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>353.9428401</x>
+      <y>214.6053291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="9">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="10">
+      <file>common.square01.swf</file>
+      <x>258.6,243.85</x>
+      <y>94.5,167.8</y>
+      <xscale>2.0325359,2.0325359</xscale>
+      <yscale>2.0325359,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="705" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE6" adelay="6" lock="Y" index="5" color="272283" guid="C65CA6D1-5D78-7416-5A98-87944225CD42">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11723" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>353.9428401</x>
+      <y>214.6053291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="8">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="9">
+      <file>common.square01.swf</file>
+      <x>243.85,271.9</x>
+      <y>167.8,179.4</y>
+      <xscale>2.0325359,2.0325359</xscale>
+      <yscale>2.0325359,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="10">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="706" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE8" adelay="36" lock="Y" index="6" color="272283" guid="18CB030C-F83F-F508-E078-629543A94D7C">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11723" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.laugh.xml</action>
+      <x>353.9428401</x>
+      <y>214.6053291</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="8">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="9">
+      <file>common.square01.swf</file>
+      <x>271.9,339.7</x>
+      <y>179.4,207.75</y>
+      <xscale>2.0325359,2.0325359</xscale>
+      <yscale>2.0325359,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="10">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="707" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="36" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE9" adelay="6" lock="Y" index="7" color="272283" guid="DB7A8DFA-0B50-BBFF-9609-DD5C95E1BB97">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.stand2.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="7">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="8">
+      <file>common.square01.swf</file>
+      <x>339.7,285.4</x>
+      <y>207.75,237.35</y>
+      <xscale>2.0325359,2.0325359</xscale>
+      <yscale>2.0325359,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="9">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="708" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE10" adelay="36" lock="Y" index="8" color="272283" guid="7D7C0160-4EA2-C1AE-EC14-BFE0A3432A9B">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.laugh.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="7">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="8">
+      <file>common.square01.swf</file>
+      <x>285.4,279.5</x>
+      <y>237.35,303.4</y>
+      <xscale>2.0325359,2.0325359</xscale>
+      <yscale>2.0325359,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="9">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="709" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="36" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE11" adelay="9" lock="Y" index="9" color="272283" guid="9416347F-6BFD-A69B-BC34-8C732B7AEE1E">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR11732" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.C-3215-1600759543029.laugh.xml</action>
+      <x>283.0160004</x>
+      <y>295.0803299</y>
+      <xscale>0.4520488</xscale>
+      <yscale>0.4520488</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="7">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="8">
+      <file>common.square01.swf</file>
+      <x>279.5</x>
+      <y>303.4</y>
+      <xscale>2.0325359</xscale>
+      <yscale>2.0325359</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65522</color>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="9">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="36" lock="Y" index="10" color="272283" guid="01A3FDE6-2CE6-0FC6-EF6F-438F5F832BDB">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>279.4491866,377.75</x>
+      <y>299,327.3</y>
+      <xscale>2.0325359,2.0325359</xscale>
+      <yscale>2.0325359,2.0325359</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="710" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="36" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE13" adelay="18" lock="Y" index="11" color="272283" guid="A49ED447-1369-86D5-28DB-8A7B9A8C00F0">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_800.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>377.75,387.3</x>
+      <y>327.3,334.9</y>
+      <xscale>2.0325359,1.0315119</xscale>
+      <yscale>2.0325359,1.0315119</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="711" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="18" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE14" adelay="12" lock="Y" index="12" color="272283" guid="C0AC0BB2-9159-6772-E509-8538B0318758">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.excited.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_800.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>396,396</x>
+      <y>334.9,350.65</y>
+      <xscale>1.0315119,0.6416871</xscale>
+      <yscale>1.0315119,0.6416871</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="false" isPan="true"/>
+      <x>47,396.0898305</x>
+      <y>24,246</y>
+      <width>550,175.720339</width>
+      <height>354,113.1</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="712" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="12" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE15" adelay="12" lock="Y" index="13" color="272283" guid="82E2D5E8-88A6-2ACB-0C86-A26103D804DA">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.excited.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_800.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>396,402.9648305</x>
+      <y>350.65,361.4</y>
+      <xscale>0.6416871,0.0500417</xscale>
+      <yscale>0.6416871,0.0500417</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">65522</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="175.720339" h="113.1" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>396.0898305</x>
+      <y>246</y>
+      <width>175.720339</width>
+      <height>113.1</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="713" target="PROP24" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE16" adelay="12" lock="Y" index="14" color="272283" guid="29A46D36-DCBC-383A-DEF5-2221D56A3A87">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.excited.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_800.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>402.9648305</x>
+      <y>361.4</y>
+      <xscale>0.0500417</xscale>
+      <yscale>0.0500417</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65522</color>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="175.720339" h="113.1" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>396.0898305</x>
+      <y>246</y>
+      <width>175.720339</width>
+      <height>113.1</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE17" adelay="24" lock="Y" index="15" color="272283" guid="8403EB3C-61F7-DE36-7511-6AD4763900E6">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>402.9648305</x>
+      <y>361.4</y>
+      <xscale>0.0500417</xscale>
+      <yscale>0.0500417</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65522</color>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="8">
+      <effect x="0" y="0" w="175.720339" h="113.1" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>396.0898305</x>
+      <y>246</y>
+      <width>175.720339</width>
+      <height>113.1</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE18" adelay="21" lock="Y" index="16" color="272283" guid="FDCE0170-5F43-DCEA-DAF7-6F6E1DAE3855">
+    <char id="AVATOR11705" index="3" raceCode="1">
+      <action face="1" motionface="1">ugc.C-1103-1600759543029.stand2.xml</action>
+      <x>480.4057589</x>
+      <y>302.96201</y>
+      <xscale>0.2990197</xscale>
+      <yscale>0.2990197</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>business.g4b_905.swf</file>
+      <x>302.7080725</x>
+      <y>381.4688083</y>
+      <xscale>13.1865266</xscale>
+      <yscale>13.1865266</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>common.circle01.swf</file>
+      <x>480.2781164</x>
+      <y>301.1188083</y>
+      <xscale>1.7772622</xscale>
+      <yscale>1.7772622</yscale>
+      <face>1</face>
+      <rotation>-6.364178</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>business.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
+      <x>477</x>
+      <y>324.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>custom.msp_curtain.msp_curtain_shower_room_curtain01.swf</file>
+      <x>471.6196927</x>
+      <y>302.0446927</y>
+      <xscale>0.2122923</xscale>
+      <yscale>0.2122923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="6">
+      <file>common.circle01.swf</file>
+      <x>401.9080725</x>
+      <y>361.3688083</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">5658198</color>
+    </prop>
+    <prop id="PROP24" index="7">
+      <file>common.square01.swf</file>
+      <x>402.9648305</x>
+      <y>361.4</y>
+      <xscale>0.0500417</xscale>
+      <yscale>0.0500417</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">65522</color>
+    </prop>
+    <prop id="PROP143" index="8">
+      <file>common.square01.swf</file>
+      <x>484.2987578,484.45</x>
+      <y>545.2,370.95</y>
+      <xscale>6.0496894,6.0496894</xscale>
+      <yscale>6.0496894,6.0496894</yscale>
+      <face>-1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">0</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT3" themecode="common" index="9">
+      <effect x="0" y="0" w="175.720339" h="113.1" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>396.0898305</x>
+      <y>246</y>
+      <width>175.720339</width>
+      <height>113.1</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="714" target="PROP143" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="18" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND14" index="0" track="0" vol="1" tts="0">
+    <sfile>common.approved_weird_liquidsl.mp3</sfile>
+    <start>325</start>
+    <stop>342</stop>
+    <trimEnd>18</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND8" index="1" track="0" vol="1" tts="0">
+    <sfile>common.shower_02.mp3</sfile>
+    <start>247</start>
+    <stop>300</stop>
+    <trimEnd>54</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="2" track="1" vol="1" tts="0">
+    <sfile>common.auditorium_audience_applause_big_05.mp3</sfile>
+    <start>265</start>
+    <stop>300</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.06457364999773851-tts.mp3</sfile>
+    <start>25</start>
+    <stop>36</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[quack]]></text>
+      <voice><![CDATA[ivy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND2" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.06457364999773851-tts.mp3</sfile>
+    <start>37</start>
+    <stop>48</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[quack]]></text>
+      <voice><![CDATA[ivy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND10" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.05540143175774721-tts.mp3</sfile>
+    <start>265</start>
+    <stop>294</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[yay, who hoo!]]></text>
+      <voice><![CDATA[justin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.07787516192489081-tts.mp3</sfile>
+    <start>82</start>
+    <stop>126</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[doing doing doing doing quack]]></text>
+      <voice><![CDATA[ivy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.06457364999773851-tts.mp3</sfile>
+    <start>49</start>
+    <stop>60</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[quack]]></text>
+      <voice><![CDATA[ivy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.07787516192489081-tts.mp3</sfile>
+    <start>166</start>
+    <stop>210</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[doing doing doing doing quack]]></text>
+      <voice><![CDATA[ivy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND6" index="6" track="1" vol="1" tts="1">
+    <sfile>ugc.07787516192489081-tts.mp3</sfile>
+    <start>124</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[doing doing doing doing quack]]></text>
+      <voice><![CDATA[ivy]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR11713,SCENE2~~~</linkage>
+  <linkage>SOUND2,SCENE3~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR11713</linkage>
+  <linkage>SOUND10,~~~AVATOR11705</linkage>
+<asset id="06457364999773851-tts.mp3">SUQzAwAAAAADQlRSQ0sAAAADAAAAMDFURU5DAAAAEUAAAE1wM1dyYXAgIHYuICAwLjVXWFhYAAAAIAAAAABodHRwOi8vbXAzd3JhcC5zb3VyY2Vmb3JnZS5uZXRUQ09QAAAAAQAAAFRPUEUAAAABAAAAVENPTQAAAAEAAABDT01NAAAAoAAAAABlIABUaGlzIGZpbGUgaXMgd3JhcHBlZCB3aXRoIE1wM1dyYXAuIEdldCBtcDNzcGx0LCB0aGUgZnJlZSB0b29sIHRvIHNwbGl0IG9yaWdpbmFsIGZpbGVzIGF0IGh0dHA6Ly9tcDNzcGx0LnNvdXJjZWZvcmdlLm5ldC4gUGxlYXNlIGRvIG5vdCByZW1vdmUgdGhpcyBjb21tZW50LlRDT04AAAABAAAAVFlFUgAAAAEAAABUQUxCAAAAHwAAAGh0dHA6Ly9tcDNzcGx0LnNvdXJjZWZvcmdlLm5ldFRQRTEAAAAaAAAARmlsZSB3cmFwcGVkIHdpdGggTXAzV3JhcFRJVDIAAAAmAAAAVXNlIE1wM1NwbHQgdG8gb2J0YWluIG9yaWdpbmFsIHRyYWNrcwAAAAAAAAAAAAAAAAAAAAAAAFdSQVAwNQEBBy540wAAADBfZmlsZXMvMTYwMDc1ODk2OC8wLm1wMwAAAA04AAAAAElEMwQAAAAAACNUU1NFAAAADwAAA0xhdmY1Ny43MS4xMDAAAAAAAAAAAAAAAP/zYMQAHavN9ABghrkWH9TM4dJaqJQ+s2CsFVYtj7HdSEJhAArr6+QlGOBiw77ITnPtRD3c0I8nc//SIR4QQhp7mnHd/ru5FT0+iOfonp1zc8n+E50RXd+JRBaE4s6AJTnpH3N4m6e79MtERK/+m77vzc/9z+vuYcXK7wQUefNpwj44elqkA6XQMeZKpMkgMYHPQ3L7ucvwp6mF2//zYsQYHQJKNBVZGACWscrGt9/6deCHSGTI8c0/5hBEhH6dfLPDmHNihHhwRESZkeHL1lgNh4lcEWf/2BxeEG//cALiV2HeDcUyEEf4AMwws+TyhQTOCMn3Z+t/uUEXvnJyJzRB8ueOECQSgoKIGVC2UnRgDdJnk3IBIn2BxuvdZwzsup33Ul5yMhhjtFwFSHrg2DA2iqXGYDtA6Q7/82LENC1kClo9mYgAP9PWHUBuAT4GI2bmall9MWWMmIKi1i427qUQQoJkUJguOO0cJ02IoOSQ71qXv0y5uTxSMSVJsgkghL/UpP6kDe7EweIOpAi5ummRMc8nxmC8shxHTxv//9N1urQu9No2icIoXC+cZM3L5cNj6CBh9Vf//oaldv+ZrWta1V3unWZuimZ/anG8v5bFGzmIqoi6//NixA4jgmKEy8+IAKq9pTyskVwcikK0dZyIYK+6nH0FoQ2QI8LEkBc4oAXMXCGEQJsvCoily8OEwNCoRIiBdJdFnSTckDc2MS4oxLyC2SUZ0zE2Zak1M1Sekiug9HSRo6e/RUitsyXUn/pWpKW5qbGBRMi4RhPsaFY0WZAoHlHWMJUINC2pqf///p/rTiEwApyNz5tZERPQmF5RxP/zYMQQItuioj5JhPw5JIJKrZSpLW4tIiRPROBMRBCbHEDcJBCZyKcsbSeH6ePIsH75tFnBB8kAhoAfTBHIb5oRhBM+CzEH8JoyFj3QDmgRqNOW1mr5oDSUXe3/PQQR2dLPWtFevfIyNpDn7bNO387tkOczGXlO8IVjnIxyf9R9gIECZRxCflV1BgABKO5DlWu8aAdJY0ERwg+Zfv/zYsQTIMHOkObDBJzUoaA/59U7UJSW5RhFkTqm2rxSQiyCbR0P5BJmiTZYeMaurq1d50/BCo8qsazSGsJy4GHmGHaKDavlYGEhUffuhBQUI76CsCeKuKfiUS1ipGSkeeJPfaHSB8FizVC55AlliXnJ4AlXffUDXKmqnqHpBIqUybv5aswW1wdJzjTYDAocAww8QMAjHIw6AGUUlrH/82LEICJztpFW2gUthYExoaBxQ1/TL1VHsLyNWuQ3NBYALKIsTU1JYYcjs6aExmy7QU6kxk0ls6/tqtQyy0rE8JW1J2ohCIDPSzy/rq5HznCADEd//9Suisd0aZ0I03y89fRWJe9auc5305/9Wq3qX5v0XBvMNYIBupJxxzP9Yg12LFZndyJDBgxQNfsjkzomLPnhrn+HgIU/ssCw//NixCYoKw6k9tMRTuDFKe7/5NILOK7Yq1+ViMGLC0zlCGd5M/c+MQ5SROf0Zp3m7Oavshq79kN5v/6vtWnfNN60uN/Wu9W1mykDQHyUY8IanGiev+UM99uEkaH4PLZgqQ9/C3/Ndpom02/pXx/vaVoOFjyOnfa4dcZVw0GH0PIp8OP//2XA+qa2kAZbJJbvBm39k5Euoo8M7AcaBv/zYMQVJDKa4l55hWoVskjFhfuNUW/VsSNaGh7hrUNVqm28XfgCEzFaZB/EWDRKcWEY629ZtmWrKJkecEO6zaR17153O64eP/3EECAQaFweeYPMQc7C/w7VTzkAxJFFOcgRv/2y9wb7bkIyEEHBlwMNh8bE5Ius0uBw+CAIZL/9bihAAAqHC6uuMVODoVxKOS7/391QZZzf9uChE//zYsQTIBqW3t7DBLo5MNZpfKMERZbH0hzHFbAKFb+m40nzkO3a+a0SuzOgTUKlMQIA4qcdXEgT3shZXTHqz1dtVJSoIrchS5iuKSK87ahQTtMZWyjEq352vX9SejHKBMUGZRIHMPsFhzRRi7YpQ0yUdx3/Ejq2xV6B1aa9eFf+y3Y5Y/xcKhLtXqFJK1S1FhQM8vzDWPX0adn/4N//82LEIh+SfuY2wkT6Z6oUCqbAyZJtxJzUvmqVWdAtHfMf1N82LuMv/U9u/dpSnGMYZWZcC5zyfkN4yf2snOpcGFYYow7vupbX/0aiGQE4I0gMp+pizQdIA+dd9ppf3ZWLCjjQqDvmhgYVQ3WErIJd2Wb/wzSUWq3J0U2EXytkho1kF6EIZbybYWCpONTE4XGUzpme79ztq04APsHE//NixDMfQ8rq9sMEy5WuzUmcMCKKepFbusqJVGS7n5yKUpU9WN/7fI6kMWVyIS8z/vuRquQrmY7I+UujtwT/zsxat5r/////dlX5HgkZVAkyw5aRYIVziymjRItyWSHe3B3IAmyKjGGqcalFjCxbCHK4UmM2S7F1LC48sgFmorACaRIIFoVvui42Zb+knwaDGUlu312ey2KJDRiiKv/zYMRGHrrW2lZ5iu5NH/bp+3o8qtMZnRt2fIvqkddSlQzmbX6SE5tB7QccdC//8TjLAqhpweKCAUeGQOEYSMPpKoHHcAASTOLGFjIGg2MFh4BmBh1sWmJkmgenaUe9mjqls2NC+Op45cci06NVttIKR2HInGWYtIqR249587VtfsVZCLkSKwqXr05ilqZW9fqjOQ7HGBGLjHW7vP/zYsRaHpLWth5hiyzL8r2SWdCCzafK4w/1esWWQPf//lVWwoaQFRGBlstda+ogICjrqxLFTRMx0FQpYJyZVNpOj7adZcuOhKJxkTkwTABFEAUinQJLDQmjkVlkVpmSIVPIWVkTKz6JiFgLNEJmUY5/JVChzfLrZarOXUv1mmx5URP5XKgqGhEePCX+sNSqMFTuJStR6du/nSrvy2X/82LEbx3BdoSuwxI4Z3Vx5Uids5JmopJ0ocI9MVjAXgZoAhomJcvPUv40szERIll7nNRkybWkNPdfuJECnFYGTOqqeTMzEbMux4Uu2Kv/+Nt9Iqdb//nT4PKuFVGj0jUeqTa1T3MIEcV2HnFQm1bol4W6/9qaP+2K1VmfbDWuNINkQVF14nOS6zlv+5/u7u1lucv83jvAg8VKkMuF//NixIgZCdpYXMpGOKgz2tBnmfxYYY9GYX+UJmPJahAAMWSU8AL6BkokgHDzxeOMHTgM4RUFWf5s6sFIZlznJtSCYcFTiAsEakJUVc7UN0skMgJgGBIXs10rRLREIaFYxfNwvIpDAJbO/0Y22YvZvPtiBUDP/dsLjTj5qX0wNKQ+YVHmI55bAkADGkNu8LqyBEQFyCNwtAGIHu7Ygv/zYMSzHAHeQAlYGAIGZAgMTAGkA2LNg6YLCBE+7LWHqEwJQC+5PCyA38FCg3PHIA6jCAQEkBslf8nCLjkjfIIdFbjvFgEeiC4s8XxVEFCHjvFj//qNC+Zm7Lc0KZEzpuLkJ0eBW5XLZECLkFHeQAdw2P//QWm5ukaMuV9qY55ESSFyESIgOeOkexmBmhkCLkVImTn///qZDT1IN//zYsTSOywWhl+YmABDtIsVCbKJNEULBdJ8xKRECMMSfIuWDQuEPPqgQ0EaQME1HJO5dEuKxOjXI3S6/BG7XsZzT5p5dHNpZqtW1nbR2rfHjmkNba1uLlzTTn9tVsQCSKOSsvDiXhLWHxeihUR9/Q1jvPbM2zaY8IpIXcxQoBkvap0yHDRUAnQsFVJNPQBQ41IOVHksBgPSx5lFNJb/82LEdSARnpTDzGAAbW6j2adnuIvLEYaqAgQiAD2FTwqXFIpdJVDFVChFLMUSLfUltQpTlVRIkSz//9qmZlqqn/9eZztVVVHEkjkjgEAiVVXxt/pyNkUcrvM0cAkv5amqe8tR04pf8ylLLMokFQVBYChpR5qC0TFSIaPNlRj4NPUWPesNe7//iUFXCbkaGgBG3TQs0srVtqlPUv9t//NgxIQdIi51jEmE/I9qqhkqNr6/SMmCggTlZsoYEZGqxgxARqqCqXUZSZj2OqV2XZu9WqsZv1DGq+xrDhrrJSZqRq67edWrykzHs1VYwYmb6vP+GqMTNVUgx8ak1UqpMedVjCkzVSUmP+ll/7VjVfY+MYUTCbpMQU1FMy45OS41qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq//NixJ4eJAXsAEjGWaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqgA=</asset><asset id="07787516192489081-tts.mp3">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</asset><asset id="05540143175774721-tts.mp3">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hIdC9JaN3hmMmkaaqddzmKSdiZUxkjT491TKRKys4fJpUAteaUyJtGPLoxYAzxDmgStzcqjVvVNa1jjYtZf+Oeqv+KOcWGCX/7UmKMBxyiBBX//7PuqjGIKgph7/82LE4SED5p1+wgUxP6VUZQqnIKDSIn+YWK7sZd8tv+v/9XN///+UY4qHQ44q/x5hEzHgwGHOPAOUChSdLfUngu5NY4cqAAjiAMYH4yqwnKbwmqn2E+1CNQpnNTK4vpejkNwUhD2gyUuaVE4cbwYQkYpI9S8y+O+wK5xGBH2K6ToYxDIv07VZHzuxgwoAEf//8rlIOMQcz8zuiOZH//NixO0lTAaEPMlNfQrmHIrL/LnR9vL/+9P+JOQM3////MYpU9fQSsViylKY8VNBsiMpmg2qgC6QCQkWUZmkM0GnibG4khd1/oCa69aWMuuOkvpK5OpxYDVqSUTiXW3B7CodqisIOSUbM7z/6rrzKDX3WqsibWmfUO/+w3m8b8YcVAcXP///VkCYAjxIfK/5lY05RIxbJ/nfDroqf//zYsTnH9QWhH7DxDz/tX/lYYrV/0X//2VvqVHu4sg3ViGGB5HiIKgeZWYPHES1NByr2o8ZIjA2WqrpwKGPNQp/vY8hdMUKzJS0hGW0AsgGVVQrCi2HRHbAp4XU11jYd5UzVvgJv6z8DaPlCBpiDYZMM5tzJI0Sf9tvQVfnHicVEhex+YY//1UkC4KiwHxjyj+NUUi6DwlAtGgjFH//82DE9yIcEnTcwssM+nodQXr//Qh2L9WMdSv//QK5////DOxRRuY7lDOzm6Q0McSqTEFNReSm91N41uHhK2lyV4L1dKBwYMuiglRRfJ5lMk/QgIXge6A5y20uUigugiMDBnDpOA30AWnnkz6xXt50EoLa4Fix0qsQLSaaVYqb//632rfF//5TZQ80q+Vb/48D4fByFg2LhqylCX//82LE/SRMElgQwcU45w64pB6WO/6t+PEnzf//Q38dGpp57nq//xKY8RTpGVtqTL0ukBjbNwatlERDIgJxYTAiAwOh8gLnC5AbEoWEQfGCMkNkpEnayagwDT5rqznKMBUrPhrxgtLllJlDOsOkxM1Ehj1Coa//68NQwUGgtDXY4ak3VDQ/Kf6w6TOpgMMqoIUGHCkzVYsaq30+qGHA//NixPch0vZECMIPMkEK2pWHrSaoykxMarGUsof/+1IM6ho1qW+MsUq6/EsKTEFNRTMuOTkuNaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv/zYMT+I3Ot9BRIRyGqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqgA=</asset><cc_char file_name='ugc.char.C-1103-1600759543029.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0x00FF00</color><color r="ccEyeLib">0x00FF00</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccHairMajor">0x996633</color><color r="ccHairMinor">0x640F0F</color><color r="ccUpperMain" oc="0x336699">0x00FF00</color><color r="ccUpperMinor" oc="0xE5E5E5">0x0875A4</color><color r="ccLowerMain" oc="0xCCBC9A">0x00FF00</color><color r="ccLowerMinor" oc="0xEEEEEE">0x0875A4</color><color r="ccDecMajor" targetComponent="ID3068">0x00FF00</color><color r="ccDecMajor" targetComponent="ID6961">0xAA00FF</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="mouth" component_id="201" theme_id="family" x="4" y="-4" xscale="1.38" yscale="1.38" offset="0" rotation="0"/><component id="ID3068" type="facedecoration" component_id="043" theme_id="family" x="-3" y="58" xscale="1" yscale="1" offset="0" rotation="116"/><component id="ID6961" type="facedecoration" component_id="043" theme_id="family" x="7" y="61" xscale="0.77" yscale="0.77" offset="0" rotation="115"/><component type="upper_body" component_id="adam_020" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="eye" component_id="001" theme_id="family" x="8" y="-16" xscale="-1.33" yscale="-1.33" offset="3" rotation="-180"/><component type="nose" component_id="022" theme_id="family" x="-10" y="-6" xscale="1" yscale="1" offset="0" rotation="27"/><component type="eyebrow" component_id="105" theme_id="family" x="10" y="-25" xscale="1.51" yscale="1.51" offset="0" rotation="0"/></cc_char><cc_char file_name='ugc.char.C-3215-1600759543029.xml' scale='1' yscale='1' hxscale='1' hyscale='1' headdx='0' headdy='0'><color r="ccSkinColor" oc="0xFFE1C4">0xFFC700</color><color r="ccEyeLib">0xFFC700</color><color r="ccEyeIris">0x000000</color><color r="ccGlassesFrame">0xBE10B0</color><color r="ccGlassesLens">0x737373</color><color r="ccMouthLip">0x891258</color><color r="ccMustache">0x000000</color><color r="ccBeard">0xFFFFFF</color><color r="ccEyebrow">0x000000</color><color r="ccUpperMain" oc="0x336699">0x993333</color><color r="ccUpperMinor" oc="0xE5E5E5">0xFFFFFF</color><color r="ccLowerMain" oc="0xCCBC9A">0xCC9966</color><color r="ccLowerMinor" oc="0xEEEEEE">0xFFFFFF</color><color r="ccDecMajor" targetComponent="ID5187">0xFF6E00</color><color r="ccDecMajor" targetComponent="ID6390">0xFF6E00</color><component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="lower_body" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/><component type="faceshape" component_id="033" theme_id="family" x="8" y="-19" xscale="3.19" yscale="3.19" offset="0" rotation="-180"/><component type="eye" component_id="001" theme_id="family" x="11" y="81" xscale="2.84" yscale="2.84" offset="40" rotation="0"/><component type="eyebrow" component_id="105" theme_id="family" x="8" y="59" xscale="2.56" yscale="2.56" offset="48" rotation="0"/><component id="ID6390" type="facedecoration" component_id="043" theme_id="family" x="0" y="100" xscale="0.41" yscale="0.41" offset="0" rotation="-27"/><component id="ID5187" type="facedecoration" component_id="043" theme_id="family" x="-2" y="70" xscale="0.39" yscale="0.39" offset="0" rotation="-159"/></cc_char><thumb>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIAWgCgAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APjKgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf/IauP+A/+givzPiH/kY1Pl/6Sj6DA/wI/P8AMzq8U6woAKACgAoAKACgAoAKAPQ6/Zj5QKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA43xH/yGrj/AID/AOgivzPiH/kY1Pl/6Sj6DA/wI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf8AyGrj/gP/AKCK/M+If+RjU+X/AKSj6DA/wI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf/ACGrj/gP/oIr8z4h/wCRjU+X/pKPoMD/AAI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf/IauP+A/+givzPiH/kY1Pl/6Sj6DA/wI/P8AMzq8U6woAKACgAoAKACgAoAKAPQ6/Zj5QKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA43xH/yGrj/AID/AOgivzPiH/kY1Pl/6Sj6DA/wI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf8AyGrj/gP/AKCK/M+If+RjU+X/AKSj6DA/wI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf/ACGrj/gP/oIr8z4h/wCRjU+X/pKPoMD/AAI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf/IauP+A/+givzPiH/kY1Pl/6Sj6DA/wI/P8AMzq8U6woAKACgAoAKACgAoAKAPQ6/Zj5QKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA43xH/yGrj/AID/AOgivzPiH/kY1Pl/6Sj6DA/wI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf8AyGrj/gP/AKCK/M+If+RjU+X/AKSj6DA/wI/P8zOrxTrCgAoAKACgAoAKACgAoA9Dr9mPlAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgDjfEf/ACGrj/gP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/wBvf+lyPh84/wB8n8vyR5nX1R5oUAFABQAUAFABQAUAFAH6Y1/LJ+lBQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAHw1+1H/yXXxF/wBuv/pLFX75wV/yJKH/AG9/6XI+Hzj/AHyfy/JHmdfVHmhQAUAFABQAUAFABQAUAfpjX8sn6UFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAfDX7Uf/JdfEX/AG6/+ksVfvnBX/Ikof8Ab3/pcj4fOP8AfJ/L8keZ19UeaFABQAUAFABQAUAFABQB+mNfyyfpQUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQB8NftR/8l18Rf8Abr/6SxV++cFf8iSh/wBvf+lyPh84/wB8n8vyR5nX1R5oUAFABQAUAFABQAUAFAH6Y1/LJ+lBQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAHw1+1H/yXXxF/wBuv/pLFX75wV/yJKH/AG9/6XI+Hzj/AHyfy/JHmdfVHmhQAUAFABQAUAFABQAUAfpjX8sn6UFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQ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P0oKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAEIBGCAR71UJyhLmi7MGrkZt7cnJgiJ/3BXfHOMwirKvO3+KX+ZHs4dg+zW//ADwi/wC+BT/trMf+gif/AIFL/MPZw7Ieqqv3VA+griqV6tVWnJv1dykkth1ZDCgAoAKACgAoAKACgAoAKACgAoAKAPhr9qP/AJLr4i/7df8A0lir984K/wCRJQ/7e/8AS5Hw+cf75P5fkjzOvqjzQoAKACgAoAKACgAoAKAP0xr+WT9KCgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAPhr9qP/AJLr4i/7df8A0lir984K/wCRJQ/7e/8AS5Hw+cf75P5fkjzOvqjzQoAKACgAoAKACgAoAKAP0xr+WT9KCgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAPhr9qP/AJLr4i/7df8A0lir984K/wCRJQ/7e/8AS5Hw+cf75P5fkjzOvqjzQoAKACgD/9k=</thumb></film>
